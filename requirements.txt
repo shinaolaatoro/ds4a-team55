@@ -4,3 +4,4 @@ numpy
 datetime
 seaborn
 matplotlib
+zipfile36
