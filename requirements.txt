@@ -1,0 +1,6 @@
+pandas
+sodapy
+numpy
+datetime
+seaborn
+matplotlib
